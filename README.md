@@ -1,7 +1,6 @@
 # Perceptron - Logical Gates and Iris Classification | Perceptron - Portas Lógicas e Classificação Iris
 
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/GabriGuerra/perceptron-project.svg)](https://github.com/your-username/perceptron-project/issues)
 
 ---
@@ -39,7 +38,7 @@ Este projeto implementa o algoritmo Perceptron para problemas de classificação
 Clone the repository / Clone o repositório:
 
 bash
-git clone https://github.com/your-username/perceptron-project.git
+git clone https://github.com/GabriGuerra/perceptron-project.git
 cd perceptron-project
 Install dependencies / Instale as dependências:
 
